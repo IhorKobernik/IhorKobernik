@@ -1,70 +1,54 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div class="Box-body p-4">
+  <article class="markdown-body entry-content container-lg f5" itemprop="text">
+    <p data-sourcepos="1:1-2:150" dir="auto">
+      <a href="https://t.me/happy0man" rel="nofollow">
+        <img align="left" alt="Smile's Telegram" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/tg.png" style="max-width: 100%;">
+      </a>
+      <a href="mailto:ImamEugenaU2K@gmail.com">
+        <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
+      </a>
+      <a href="" rel="nofollow">
+        <img align="left" alt="Smile's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://dev.to/smile0307">
+        <img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/code.gif" width="480" height="300" style="max-width: 100%; visibility: visible;" data-xblocker="passed">
+      </a>
+    </p>
+    <ul data-sourcepos="3:1-6:0" dir="auto">
+      <li data-sourcepos="3:1-3:37">
+        <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> Fullstack Blockchain Developer
+      </li>
+      <li data-sourcepos="4:1-4:42">
+        <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Passionate &amp; Trustworthy Freelancer
+      </li>
+      <li data-sourcepos="5:1-6:0">
+        <g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> Love to communicate, learn from others
+      </li>
+    </ul>
+    <p data-sourcepos="7:1-8:259" dir="auto">Master <br>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/solidity.png">
+        <img alt="solidty" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/solidity.png" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/rust.png">
+        <img alt="rust" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/rust.png" style="max-width: 100%;">
+      </a>
+    </p>
+    <p data-sourcepos="10:1-15:142" dir="auto">Hands-on <br>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/eth-diamond-black-white.jpg">
+        <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/eth-diamond-black-white.jpg" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.jpg">
+        <img align="left" alt="ETH" width="40px" height="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/index.jpg" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/elrond.png">
+        <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/elrond.png" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.png">
+        <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/index.png" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/substrate.png">
+        <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/substrate.png" style="max-width: 100%;">
+      </a>
+    </p>
+  </article>
+</div>

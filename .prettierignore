@@ -1,5 +1,0 @@
-#Ignore path & file type
-node_modules
-
-*.html
-*.css
