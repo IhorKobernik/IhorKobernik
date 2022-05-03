@@ -1,14 +1,14 @@
 <div class="Box-body p-4">
   <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <p data-sourcepos="1:1-2:150" dir="auto">
-      <a href="https://t.me/happy0man" rel="nofollow">
-        <img align="left" alt="Smile's Telegram" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/tg.png" style="max-width: 100%;">
+      <a href="https://t.me/golden_racing" rel="nofollow">
+        <img align="left" alt="Ihor's Telegram" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/tg.png" style="max-width: 100%;">
       </a>
-      <a href="mailto:ImamEugenaU2K@gmail.com">
+      <a href="mailto:kobernikihor@gmail.com">
         <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
       </a>
-      <a href="" rel="nofollow">
-        <img align="left" alt="Smile's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+      <a href="notifications-noreply@linkedin.com" rel="nofollow">
+        <img align="left" alt="Ihor's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
       </a>
       <a target="_blank" rel="noopener noreferrer" href="https://dev.to/smile0307">
         <img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/code.gif" width="480" height="300" style="max-width: 100%; visibility: visible;" data-xblocker="passed">
